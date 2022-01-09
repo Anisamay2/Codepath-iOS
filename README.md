@@ -29,9 +29,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/f0VYI7o' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Anisamay2/Codepath-iOS/blob/main/prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [Imgur](https://imgur.com).
+GIF created with [Giphy](https://giphy.com).
 
 ## Notes
 
